@@ -4,3 +4,8 @@ Then go to libsvm-3.18 folder and run "make" command and again run "make" comman
 LibSVM:
   1. http://codexpython.blogspot.com/2011/02/installing-libsvm-30-for-python-on-osx.html
   2. https://stackoverflow.com/questions/15755130/how-to-setup-libsvm-for-python
+  
+Tomcat7:
+Changes permissions using follwoing commands:
+ chown -R webapps logs work conf
+ chmod -R 777 webapps logs work conf
