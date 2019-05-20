@@ -1,4 +1,6 @@
 This is a test repo from Linux!!
+Always remake libsvm library after removing "svm.o" file from libsvm-3.18 folder and "libsvm.so" file from libsvm-3.18/python folder.
+Then go to libsvm-3.18 folder and run "make" command and again run "make" command inside libsvm-3.18/python.
 LibSVM:
   1. http://codexpython.blogspot.com/2011/02/installing-libsvm-30-for-python-on-osx.html
   2. https://stackoverflow.com/questions/15755130/how-to-setup-libsvm-for-python
